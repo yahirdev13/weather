@@ -1,4 +1,4 @@
 # weather
 
-Pagina para consuktar el clima de distintos paises
+Pagina para consultar el clima de distintos paises
 
